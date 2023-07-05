@@ -1,10 +1,15 @@
-Chatify me is a Real Time Group chat App.A group chat is initiated automatically whenever a user is connected to the server. :)
-Happy Chatifying!
+# Chatify: Group Chat Application
 
-Technologies Used:
-1. Node Js
-2. Socket.io
+## Highlights
+– Developed a Socket.io Group Chat App enabling Real-Time Communication
+– Users are automatically connected to Group Chat upon joining the server
 
-Note: To run this project
-1. npm install
-2. npm start
+<img width="100%" alt="image" src="https://github.com/shivam-singla/chatify/assets/95306965/b2e2d8ff-fe6b-49d1-9d66-98e317899e19">
+
+## Technologies Used:
+- Node Js
+- Socket.io
+
+## Run this Project
+- npm install
+- npm start
